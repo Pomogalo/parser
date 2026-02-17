@@ -182,7 +182,9 @@ public:
         return json;
     }
 };
-
+void randomfuncforatask() {
+    cout << "Elite ball knowledge" << endl;
+}
 int main() {
     //setlocale(0,"");
     SetConsoleOutputCP(CP_UTF8);
